@@ -477,6 +477,7 @@ nav a:hover {
     }
     
     .pie-pagina i{
+        display: inline-flex;
         padding: 0px 30px;
         width: 30px;
         font-size: 20px;
