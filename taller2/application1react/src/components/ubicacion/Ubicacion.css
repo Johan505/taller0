@@ -1,0 +1,30 @@
+#ubicacion{
+    margin: 40px;
+    text-align: center;
+}
+
+#ubicacion h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#ubicacion div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+#ubicacion h4{
+    margin: auto;
+    width: 70%;
+    font-weight: bold;
+}
+
+.ubicacion-hr{
+    margin: 0 auto;
+    width: 100%;
+    opacity: 0.8;
+    border: none;
+    background-color: var(--azuloscuro);
+    justify-self: center;
+    height: 2px;
+}
